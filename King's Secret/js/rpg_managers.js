@@ -543,6 +543,11 @@ ConfigManager.applyData = function(config) {
     this.bgsVolume = this.readVolume(config, 'bgsVolume');
     this.meVolume = this.readVolume(config, 'meVolume');
     this.seVolume = this.readVolume(config, 'seVolume');
+    // sato add 常にダッシュをオンにしておく
+    if(config['alwaysDash'] === void 0){
+    	this.alwaysDash = true;
+    }
+    // sato add 
 };
 
 ConfigManager.readFlag = function(config, name) {
