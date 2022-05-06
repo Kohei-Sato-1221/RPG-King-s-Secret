@@ -17,7 +17,7 @@
 - ダウンロードしたフォルダにてターミナルを開いて`sh run.sh`を実行してください。
 - Google Chromeが起動します。`index.html`をドラッグアンドドロップして、Chromeで表示してください。
 
-### Windの場合
+### Winの場合
 - このリポジトリのファイルをローカルPCにダウンロードしてください。
 - Google Chromeをローカルファイルを読み込めるモードで起動し、`index.html`を開いてください。
 - 参考：https://www.keyton-co.jp/blog/pc/windows/445/#:~:text=GoogleChrome%E3%81%A7%E3%81%AF%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE,%E3%82%88%E3%81%86%E3%81%AB%E5%A4%89%E6%9B%B4%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82
